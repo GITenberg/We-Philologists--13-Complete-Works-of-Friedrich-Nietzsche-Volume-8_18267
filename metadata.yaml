@@ -1,0 +1,44 @@
+_repo: We-Philologists--13-Complete-Works-of-Friedrich-Nietzsche-Volume-8_18267
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Kennedy, J. M. (John McFarland)
+    alias: Kennedy, John McFarland
+    gutenberg_agent_id: '7863'
+    url: http://www.gutenberg.org/2009/agents/7863
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Nietzsche, Friedrich Wilhelm
+    birthdate: 1844
+    deathdate: 1900
+    gutenberg_agent_id: '779'
+    url: http://www.gutenberg.org/2009/agents/779
+    wikipedia: http://en.wikipedia.org/wiki/Friedrich_Nietzsche
+  editor:
+    agent_name: Levy, Oscar
+    aliases:
+    - Levy, O. (Oscar)
+    - Levy, Oscar Ludwig
+    birthdate: 1867
+    deathdate: 1946
+    gutenberg_agent_id: '7862'
+    url: http://www.gutenberg.org/2009/agents/7862
+    wikipedia: http://en.wikipedia.org/wiki/Oscar_Levy
+description: 'Translation of: Wir Philologen'
+gutenberg_issued: '2006-04-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18267'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Education'
+- !lcsh 'Classical philology'
+- !lcc 'B'
+title: "We Philologists\r\nComplete Works of Friedrich Nietzsche, Volume 8"
+url: http://www.gutenberg.org/ebooks/18267
