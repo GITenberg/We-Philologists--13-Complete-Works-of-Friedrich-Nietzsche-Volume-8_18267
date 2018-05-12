@@ -28,6 +28,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7862
     wikipedia: http://en.wikipedia.org/wiki/Oscar_Levy
 description: 'Translation of: Wir Philologen'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18267#We-Philologists--13-Complete-Works-of-Friedrich-Nietzsche-Volume-8
 gutenberg_issued: '2006-04-27'
 gutenberg_type: Text
 identifiers:
